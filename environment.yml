@@ -1,0 +1,10 @@
+name: gstp
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - zarr
+  - xarray
+  - s3fs
+  - matplotlib
+  
